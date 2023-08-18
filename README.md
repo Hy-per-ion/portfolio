@@ -1,5 +1,5 @@
 # Fantastic 3D Portfolio Website with Three.js and React.js
-![3D Portfolio](https://i.ibb.co/9ykhLtM/Thumbnail.png)
+![3D Portfolio](https://github.com/Hy-per-ion/portfolio/blob/main/src/assets/thumbnail.png)
 
 ## Introduction
 The most impressive websites in the world useing 3D graphics and animations to bring the content to life. Learnt how to build a ThreeJS 3D Developer Portfolio! 
